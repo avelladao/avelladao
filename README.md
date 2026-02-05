@@ -9,8 +9,8 @@ My goal is to lead electrical engineering in UAS product development—designing
 
 ---
 
-##Featured Work:
-*NSF SCALE REU (Summer 2025) — UAS Systems + Telemetry Concepts + 3D Reconstruction**
+## Featured Work:
+**NSF SCALE REU (Summer 2025) — UAS Systems + Telemetry Concepts + 3D Reconstruction**
 - Pixhawk/QGroundControl operations + structured field workflow
 - Telemetry + environmental path loss exploration (reliability thinking)
 - Perception experiments with inference-time focus (VisDrone/YOLO, AIDER anomaly detection)
