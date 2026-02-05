@@ -6,28 +6,16 @@
 I am currently a junior at Southern Methodist University, building hardware-backed engineering projects that translate to defense-grade thinking: reliability, constraints, test plans, and clear documentation.
 My goal is to lead electrical engineering in UAS product development—designing and validating drone subsystems and sensing payloads.
 </p>
-
 ---
-
-## Focus Areas
-- UAS systems integration (autopilot ecosystem, field workflow, data collection discipline)
-- Sensing under constraints (low-SNR imaging, runtime limits, noise behavior)
-- Signal processing (gain control, filtering trade-offs, dynamic range/contrast)
-- Verification mindset (requirements → test plan → results → revision)
-
----
-
-## Featured Work
+## Featured Work:
 **NSF SCALE REU (Summer 2025) — UAS Systems + Telemetry Concepts + 3D Reconstruction**
 - Pixhawk/QGroundControl operations + structured field workflow
 - Telemetry + environmental path loss exploration (reliability thinking)
 - Perception experiments with inference-time focus (VisDrone/YOLO, AIDER anomaly detection)
 - Digital twin pipeline: COLMAP → Gaussian Splatting (3D reconstructions)
 ➜ Repo: **REU2025**
-
 ---
-
-## Current Project (Spring 2026)
+## Current Projects (Spring 2026)
 **Physical Low-Light Imaging Device (Signal Processing)**
 Handheld/wearable low-light camera system that improves visibility using:
 - gain control + amplification (observe noise growth)
