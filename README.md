@@ -1,4 +1,4 @@
-### 🇺🇸 Hello there 👋
+## 🇺🇸 Hello there 👋
 <h1 align="center">Anthony Velladao</h1>
 <p align="center"><b>Electrical & Computer Engineering • UAS / Sensing / Signal Processing • Defense/Aerospace </b></p>
 
@@ -22,7 +22,7 @@ My goal is to lead electrical engineering in UAS product development—designing
 Handheld/wearable low-light camera system that improves visibility using:
 - gain control + amplification (observe noise growth)
 - filtering trade-offs (noise vs detail)
-- dynamic range / contrast enhancement
+- dynamic range/contrast enhancement
 Evaluation across settings with documented results (visibility vs noise vs latency).
 *(Learning-focused; not image-intensifier hardware.)*
 
