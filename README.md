@@ -5,8 +5,10 @@
 <p align="center">
 I am currently a junior at Southern Methodist University, building hardware-backed engineering projects that translate to defense-grade thinking: reliability, constraints, test plans, and clear documentation.
 My goal is to lead electrical engineering in UAS product development—designing and validating drone subsystems and sensing payloads.
-</p>
+</p> 
+
 ---
+
 ## Featured Work:
 **NSF SCALE REU (Summer 2025) — UAS Systems + Telemetry Concepts + 3D Reconstruction**
 - Pixhawk/QGroundControl operations + structured field workflow
