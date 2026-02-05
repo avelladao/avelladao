@@ -33,6 +33,7 @@ My goal is to lead electrical engineering in UAS product development—designing
 
 ## Tools
 Software: Python • C/C++ • Pixhawk/QGroundControl • PyTorch/YOLO • QGIS
+
 Hardware: Caidence • Voltera Nova  
 
 
