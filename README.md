@@ -1,9 +1,9 @@
 ## 🇺🇸 Hello there 👋
 <h1 align="center">Anthony Velladao</h1>
-<p align="center"><b>Electrical & Computer Engineering • UAS / Sensing / Signal Processing • Defense/Aerospace Product Development</b></p>
+<p align="center"><b>Electrical & Computer Engineering • UAS / Sensing / Signal Processing • Defense/Aerospace </b></p>
 
 <p align="center">
-I build hardware-backed engineering projects that translate to defense-grade thinking: reliability, constraints, test plans, and clear documentation.
+I am currently a junior at Southern Methodist University, building hardware-backed engineering projects that translate to defense-grade thinking: reliability, constraints, test plans, and clear documentation.
 My goal is to lead electrical engineering in UAS product development—designing and validating drone subsystems and sensing payloads.
 </p>
 
