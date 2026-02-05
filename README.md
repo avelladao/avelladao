@@ -34,4 +34,5 @@ Python • C/C++ • Pixhawk/QGroundControl • PyTorch/YOLO • COLMAP • Gaus
 ---
 
 ## Contact
-LinkedIn: <link> • Email: <email>
+LinkedIn: <www.linkedin.com/in/avelladao <img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/cb0c8c39-df83-456c-9ec9-683f6d403b6d" />
+> • Email: <email>
