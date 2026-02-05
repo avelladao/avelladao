@@ -1,5 +1,4 @@
-## 🇺🇸 Hello & Good Day 🇺🇸
-
+## 🇺🇸 Hello there 👋
 <h1 align="center">Anthony Velladao</h1>
 <p align="center"><b>Electrical & Computer Engineering • UAS / Sensing / Signal Processing • Defense/Aerospace Product Development</b></p>
 
