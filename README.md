@@ -12,8 +12,8 @@ My goal is to lead electrical engineering in UAS product development—designing
 ## Previous Initiatives
 **NSF SCALE REU (Summer 2025) — UAS Systems + Telemetry Concepts + 3D Reconstruction**
 - Pixhawk/QGroundControl operations + structured field workflow
-- Telemetry + environmental path loss exploration (reliability thinking)
 - Perception experiments with inference-time focus (VisDrone/YOLO, AIDER anomaly detection)
+- Telemetry + environmental path loss exploration (reliability thinking)
 - Digital twin pipeline: COLMAP → Gaussian Splatting (3D reconstructions)
 ---
 ## Current Projects (Spring 2026)
@@ -27,7 +27,9 @@ My goal is to lead electrical engineering in UAS product development—designing
 ---
 
 ## Tools
-Python • C/C++ • Pixhawk/QGroundControl • PyTorch/YOLO • COLMAP • Gaussian Splatting • QGIS
+Software: Python • C/C++ • Pixhawk/QGroundControl • PyTorch/YOLO • COLMAP • Gaussian Splatting • QGIS
+Hardware: Caidence • Voltera Nova printer 
+
 
 ---
 
