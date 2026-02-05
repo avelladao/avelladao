@@ -23,7 +23,12 @@ My goal is to lead electrical engineering in UAS product development—designing
 - filtering trade-offs (noise vs detail)
 - dynamic range/contrast enhancement
 - Evaluation across settings with documented results (visibility vs noise vs latency)
-  
+
+#### MOSFET Differential Amplifier (Circuits II — Hardware Build)
+- Designing, fabricating, and validating a MOSFET differential amplifier
+- Using a **Nova Voltera** to print the circuit on a **flexible substrate**
+- Testing gain, bias stability, and noise behavior with measured results & revisions
+
 ---
 
 ## Tools
