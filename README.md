@@ -4,7 +4,7 @@
 
 <p align="center">
 I am currently a junior at Southern Methodist University, building hardware-backed engineering projects that translate to defense-grade thinking: reliability, constraints, test plans, and clear documentation.
-My professional goal is to become a chief electrical engineer, leading UAS product development — designing and validating drone subsystems and sensing payloads.
+My goal is to become a chief electrical engineer, leading UAS product development — designing and validating drone subsystems and sensing payloads.
 </p> 
 
 ---
