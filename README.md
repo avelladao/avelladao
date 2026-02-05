@@ -18,11 +18,11 @@ My goal is to lead electrical engineering in UAS product development—designing
 ---
 ## Current Projects (Spring 2026)
 #### Physical Low-Light Imaging Device  
-**Handheld/wearable low-light camera system that improves visibility using:
+- Handheld/wearable low-light camera system that improves visibility using:
 - gain control + amplification (observe noise growth)
 - filtering trade-offs (noise vs detail)
 - dynamic range/contrast enhancement
-**Evaluation across settings with documented results (visibility vs noise vs latency).
+- Evaluation across settings with documented results (visibility vs noise vs latency).
 *(Learning-focused; not image-intensifier hardware.)*
 
 ---
