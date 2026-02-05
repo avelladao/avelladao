@@ -15,11 +15,10 @@ My goal is to lead electrical engineering in UAS product development—designing
 - Telemetry + environmental path loss exploration (reliability thinking)
 - Perception experiments with inference-time focus (VisDrone/YOLO, AIDER anomaly detection)
 - Digital twin pipeline: COLMAP → Gaussian Splatting (3D reconstructions)
-➜ Repo: **REU2025**
 ---
 ## Current Projects (Spring 2026)
-**Physical Low-Light Imaging Device (Signal Processing)**
-Handheld/wearable low-light camera system that improves visibility using:
+**Physical Low-Light Imaging Device 
+**Handheld/wearable low-light camera system that improves visibility using:
 - gain control + amplification (observe noise growth)
 - filtering trade-offs (noise vs detail)
 - dynamic range/contrast enhancement
