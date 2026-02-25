@@ -1,6 +1,6 @@
 ## Hello there 👋
 <h1 align="center" style="margin-top:-60px; margin-bottom:10px;">Anthony Velladao</h1>
-<p align="center"><b>Electrical & Computer Engineering • UAS / Sensing / Signal Processing • Defense/Aerospace </b></p>
+<p align="center"><b>Electrical & Computer Engineering • UAS / Sensing / Semiconductor Fabrication • Defense/Aerospace </b></p>
 
 <p align="center">
 I am currently a junior at Southern Methodist University, building hardware-backed engineering projects that translate to defense-grade thinking: reliability, constraints, test plans, and clear documentation.
