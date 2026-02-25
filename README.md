@@ -16,7 +16,7 @@ My goal is to become a chief electrical engineer, leading UAS product developmen
 - Telemetry + environmental path loss exploration (reliability thinking)
 - Digital twin pipeline: COLMAP → Gaussian Splatting (3D reconstructions)
 ---
-**P-channel MOSFET Transistor Fabrication (Semiconductor Devices Cleanroom Project)
+##P-channel MOSFET Transistor Fabrication (Semiconductor Devices Cleanroom Project)
 - Built and inspected a p-channel MOSFET transistor through a multi-step cleanroom fabrication workflow in Semiconductor Devices.
 - Performed photolithography, oxidation, ion implantation, metallization, and etching.
 - Handled silicon wafers and conducted microscope inspection during process checkpoints.
