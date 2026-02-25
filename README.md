@@ -40,7 +40,7 @@ My goal is to become a chief electrical engineer, leading UAS product developmen
 ## Tools
 Software: Python • C/C++ • Pixhawk/QGroundControl • PyTorch/YOLO • QGIS
 
-Hardware: Caidence • Voltera Nova  
+Hardware: KiCad • Voltera Nova  
 
 
 ---
